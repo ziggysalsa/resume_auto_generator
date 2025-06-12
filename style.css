@@ -9,6 +9,16 @@ li {
   margin: 0;
 }
 
+@page {
+  size: A4;
+  margin: 0.5in;
+}
+
+body {
+  font-family: 'Helvetica', serif;
+  font-size: 12pt;
+}
+
 /* Headings */
 h1,
 h2,
@@ -59,16 +69,10 @@ table {
 
 .resume-header h1 {
   text-align: center;
-  line-height: 1;
-  margin-bottom: -1px;
+  line-height: 0.8;
   margin-top: -1px;
 }
 
 .resume-header-item:not(.no-separator)::after {
   content: " | ";
-}
-
-@page {
-  size: A4;
-  margin: 0.5in;
 }
