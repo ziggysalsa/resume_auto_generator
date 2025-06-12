@@ -17,6 +17,7 @@ li {
 body {
   font-family: 'Helvetica', serif;
   font-size: 12pt;
+  line-height: 1.05;
 }
 
 /* Headings */
