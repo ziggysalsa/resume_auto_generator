@@ -6,11 +6,11 @@ This repo contains my resume plus the tools to generate it from a markdown file.
 
 ## Contents
 
-- `Zelenski_Resume.md` — Resume in Markdown format 
-- `resume-template.html` — Custom Pandoc HTML template. This (1) prevents Pandoc from getting all fancy with its default template, and adding unnecessary formatting into the HTML file, and (2) adds support for the `resume-header class` so it appears in the HTML file
-- `style.css` — CSS styles for formatting
-- `watch.sh` — Script for auto-generating HTML and PDF files upon save
-- `README.md` — Project documentation
+- `Zelenski_Resume.md`: Resume in Markdown format 
+- `resume-template.html`: Custom Pandoc HTML template. This (1) prevents Pandoc from getting all fancy with its default template, and adding unnecessary formatting into the HTML file, and (2) adds support for the `resume-header class` so it appears in the HTML file
+- `style.css`: CSS styles for formatting
+- `watch.sh`: Script for auto-generating HTML and PDF files upon save
+- `README.md`: Project documentation
 
 ## How to Use
 
@@ -25,4 +25,4 @@ This repo contains my resume plus the tools to generate it from a markdown file.
 - [WeasyPrint](https://weasyprint.org/): `pip install weasyprint`
 - [fswatch](https://emcrisostomo.github.io/fswatch/): `brew install fswatch`
 
-Not a requirement, but the 'vscode-pdf' extension is handy for viewing PDF documents in VSC. It auto-refreshes when the PDF changes
+The 'vscode-pdf' VSC extension is handy for viewing PDF documents in VSC. It auto-refreshes when the PDF changes
