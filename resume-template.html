@@ -17,7 +17,7 @@
         $if(header)$
           <div>
             $for(header)$
-              <span class="resume-header-item">
+              <span class="resume-header-item$if(header.no-separator)$ no-separator$endif$">
                 $if(header.link)$
                   <a href="$header.link$">$header.text$</a>
                 $else$
