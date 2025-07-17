@@ -10,14 +10,15 @@ li {
 }
 
 @page {
-  size: A4;
+  size: Letter;
   margin: 0.5in;
+  margin-top: 0.75in;
 }
 
 body {
   font-family: 'Helvetica', serif;
-  font-size: 12pt;
-  line-height: 1.05;
+  font-size: 10pt;
+  line-height: 1.3;
 }
 
 /* Headings */
@@ -59,19 +60,28 @@ ol {
 
 /* Table */
 table {
+  margin-top: 0.75em;
   width: 100%;
   table-layout: fixed;
+  line-height: 1.1;
 }
 
 /* Header */
 .resume-header {
   text-align: center;
+  font-size: 1em;
+  border-bottom-style: solid;
+  border-bottom-width: 1px;
+  margin-bottom: 1em;
+  padding-bottom: 0.5em;
 }
 
 .resume-header h1 {
   text-align: center;
   line-height: 0.8;
   margin-top: -1px;
+  margin-bottom: -1px;
+  padding-bottom: 0.5em;
 }
 
 .resume-header-item:not(.no-separator)::after {
