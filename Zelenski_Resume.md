@@ -11,68 +11,70 @@ header:
     no-separator: true
 ---
 
-
-*Seattle-based full-stack Software Engineer with experience delivering reliable solutions across the full software development lifecycle. Full-stack Software Engineer with experience delivering reliable solutions across the full software development lifecycle. *
+Seattle-based full-stack software engineer with a passion for aerospace and experience in system design, API development, and distributed systems. Specialized in building reliable and scalable backend services.
 
 ## Skills
 
-**Programming Languages:** Python, Java, Javascript/Typescript, C/C++
+- **Programming Languages:** Python, Java, JavaScript/TypeScript, C/C++  
+- **Infrastructure & Cloud:** AWS, Docker, Jenkins, Terraform, Nomad, Rundeck, Prometheus 
+- **Backend & API Development:** SQL/NoSQL Databases, Spring, Postman, JWT   
+- **Tools & Practices:** Git, Agile
 
-**Tools and Frameworks:** MySQL, MongoDB, Nomad, Docker, Jenkins, Postman, Rundeck, AWS, Spring, Agile, Git
+
 
 ## Experience
 
-| **Software Engineer I, Engineering Services Team**         | **06/2022 - 04/2024** |
-| :------------------------------ | --------------------: |
-| *Qualtrics*                     | *Seattle, WA*         |
+| **Software Engineer I, Engineering Services Team** | **06/2022 - 04/2024** |
+| :------------------------------------------------- | --------------------: |
+| _Qualtrics_                                        |         _Seattle, WA_ |
 
-- Built custom automations in Python and Java to support brand-specific needs not met by core Qualtrics product
+- Developed custom automations on distributed systems in Python and Java to extend product capabilities
 
-- Created secure tool for bulk updating survey data via CSV upload, replacing previous manual process
+- Created API endpoints in Java and implemented MySQL schema changes for Course Evaluations feature
 
+- Automated brand health monitoring system in Python and helped update existing API to support it
 
-- Re-engineered legacy system for managing customer data, cutting runtime by 50% and reducing client cost
+- Built secure web-based tool using Qualtrics API for bulk survey data updates
 
+- Re-architected legacy customer data pipeline, cutting runtime by 50% and reducing client costs
 
-- Led development of Course Evaluations feature with major changes to MySQL database and backend codebase
-
-- Created automation for reporting on brand health in Python using Qualtrics API, enabling early detection of outages
-
-- Provided on-call support for multiple brands, resolving high-impact issues and implementing long-term solutions
+- Supported production systems built on AWS services including Lambda, S3, IAM, and CloudWatch
 
 
 | **Software Engineering Intern** | **05/2021 - 08/2021** |
 | :------------------------------ | --------------------: |
-| *Collins Aerospace*             | *Cedar Rapids, IA*    |
+| _Collins Aerospace_             |    _Cedar Rapids, IA_ |
 
-- Designed new layered framework for PTS-200 power supply testing system with two other interns
-- Initiated conversion from Visual Basic 6 to C#, saving up to $3.6M over next 15 years  
-- Surveyed engineering teams and technicians to increase software compatibility between departments
+- Architected new framework for PTS-200 power supply testing system in C#
 
-| **Undergraduate Research Assistant** | **05/2019 - 05/2022** |
-| :----------------------------------- | --------------------: |
-| *UI Technology Institute, UI Hydroscience and Engineering* | *Iowa City, IA* |
+- Initiated conversion from legacy VB6 system, saving up to $3.6M over next 15 years
 
-- Developed tool to analyze oil weathering, enabling reduced usage of dispersants in oil spill cleanup 
-- Algorithmically linked petroleum compound signatures across samples from Deepwater Horizon oil spill
-- Built multi-step LSTM network to forecast pH and ORP sensor readings from chlorination system in Nicaragua
+- Conducted stakeholder interviews to improve system interoperability between engineering teams
+
+| **Undergraduate Research Assistant**                       | **05/2019 - 05/2022** |
+| :--------------------------------------------------------- | --------------------: |
+| _UI Technology Institute, UI Hydroscience and Engineering_ |       _Iowa City, IA_ |
+
+- Developed ML model to forecast chemical sensor readings from chlorination system in Nicaragua
+- Analyzed oil weathering patterns in MATLAB, enabling reduced usage of dispersants in oil spill cleanup
+- Created algorithm for linking petroleum compound signatures across Deepwater Horizon oil spill samples
 - Co-authored paper for IEEE Oceans Conference and future publication
-
 
 ## Education
 
 | **B.S.E. Computer Science and Engineering with Honors** | **08/2018 - 05/2022** |
-| :------------------------------------------------------------ | --------------------: |
-| **Mathematics Minor** | |
-| *University of Iowa*                                          | *Iowa City, IA*       |
+| :------------------------------------------------------ | --------------------: |
+| **Mathematics Minor**                                   |                       |
+| _University of Iowa_                                    |       _Iowa City, IA_ |
+
 - GPA 3.51/4.00
 - Teaching assistant for Linear Systems II
 
 ## Projects
 
-| **Senior Capstone Project** | **11/2020 - 05/2021** |
-| :------------------------- | --------------------: |
-| *University of Iowa, sponsored by Collins Aerospace* | *Iowa City, IA* |
+| **Senior Capstone Project**                          | **11/2020 - 05/2021** |
+| :--------------------------------------------------- | --------------------: |
+| _University of Iowa, sponsored by Collins Aerospace_ |      *Iowa City, IA*  |
 
-- Designed embedded machine learning tool to increase safety among fatigued pilots
-- Developed eye tracking algorithm to detect pilots' gaze direction within 3 degrees of error and record movements
+- Designed embedded ML tool in Python with TensorFlow to increase safety among fatigued pilots
+- Developed eye-tracking algorithm to monitor pilots' gaze direction in real-time with accuracy within 3 degrees

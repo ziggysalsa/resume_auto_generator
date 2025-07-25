@@ -1,10 +1,17 @@
 **Skills**
+
 **Languages:** English (fluent), Ukrainian (fluent), Spanish (basic), Russian (basic)
 
 **Qualtrics**
 - Designed, developed, and maintained custom solutions for brands requiring features beyond core product offerings
 
 - Created and maintained internal documentation to support team onboarding and ensure long-term maintainability of custom solutions
+
+- Provided on-call support for multiple brands, using wide range of technologies, including AWS
+
+- Automated brand health monitoring system in Python and helped update the existing API to support it, improving outage detection and response time.
+
+-Led development of Course Evaluations feature, creating API endpoints and executing MySQL schema changes
 
 
 
